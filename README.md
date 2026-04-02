@@ -35,7 +35,7 @@ Install the plugin:
 
 Reload plugins:
 
-```bash
+```bash 
 /reload-plugins
 ```
 
